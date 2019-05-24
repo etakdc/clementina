@@ -15,7 +15,7 @@ Run main.py from root directory, selecting one of the proper arguments
 ## Built With
 
 * [Python3](https://www.python.org/) - Programming Language
-* [jupyter](http://jupyter.org/) - The web framework used to show Reckoner usage
+* [jupyter](http://jupyter.org/) - The web framework used to show clementina usage
 
 
 ## Authors
