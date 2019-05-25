@@ -1,6 +1,6 @@
 # About
 
-Clementina takes Clementine database and performs various metadata retrieval operations
+Clementina takes Clementine databases and performs various metadata retrieval operations
 
 ### Prerequisites
 
